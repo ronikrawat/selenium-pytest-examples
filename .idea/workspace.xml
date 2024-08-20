@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="61ab9b55-753f-4fd4-a36d-066d3ff1eb7f" name="Changes" comment="" />
+    <list default="true" id="61ab9b55-753f-4fd4-a36d-066d3ff1eb7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Selenium_Tutorial_Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial_Info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_action_chains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_alert_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_browser_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_combined_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cookie_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_devtools_protocol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_locating_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_navigation_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_options_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_service_driver_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_shadow_dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webdriver_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_webelement_methods.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
