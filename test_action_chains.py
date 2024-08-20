@@ -7,14 +7,14 @@ from selenium.webdriver.common.action_chains import ActionChains
 @pytest.fixture(scope="function")
 def setup():
     driver = webdriver.Chrome()
-    driver.get("https://www.example.com")
+    driver.get("https://demowebshop.tricentis.com/")
     yield driver
     driver.quit()
 
 
 def test_action_chains(setup):
     driver = setup
-    element = driver.find_element(By.TAG_NAME, "h1")
+    element = driver.find_element(By.LINK_TEXT, "Register")
 
     # Create an ActionChains object
     actions = ActionChains(driver)
